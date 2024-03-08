@@ -8,7 +8,7 @@ Legyen egy input mező címre kereséshez, illetve egy select kategóriára szű
 - Az elérhetőség átállítása is a szerveren mentődik el.
 - Az elérhetőség sikeres átállítása után ezt a változást a kliens is megjeleníti.
 - Sikertelen módosítás esetén egy kis üzenet jelenik meg, mely erről tájékoztat, majd 3 másodperc után eltűnik.
-- Legyen lekezelve mind szerver, mind kliens oldalon a szerver oldali hiba, a kliens oldali hiba (nem megfelelő email/jelszó/megerősítés + LÉTEZŐ FELHASZNÁLÓ), illetve kliens oldalon a nem várt válasz és az internetkapcsolat hiánya is.
+- Legyen lekezelve mind szerver, mind kliens oldalon a szerver oldali hiba, a kliens oldali hiba, illetve kliens oldalon a nem várt válasz és az internetkapcsolat hiánya is.
 
 ### Elvárt tech stack:
 - Typescript
